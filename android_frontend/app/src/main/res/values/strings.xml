@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">android_frontend</string>
+    <string name="app_name">Note Keeper</string>
+    <string name="notes">Notes</string>
+    <string name="details">Details</string>
+    <string name="create_note">Create Note</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
 </resources>
